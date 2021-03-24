@@ -9,8 +9,8 @@ const Button = ({variant = '', ...otherProps}) => (
   />
 );
 
-Button.propTypes = {
+Button.propTypes = { 
   variant: PropTypes.string,
 };
-
+ec[;pr]
 export default Button;
